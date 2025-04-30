@@ -35,7 +35,7 @@
   {{ .Inner | markdownify}}
 </div> -->
 
-<!-- <div style="
+<div style="
   max-width: calc(100vw - {{ .Get "margin" | default "120px" }});
   width: calc(100vw - {{ .Get "margin" | default "120px" }});
   position: relative;
@@ -46,9 +46,9 @@
   {{ if .Get "bg" }}background: {{ .Get "bg" }};{{ end }}
 ">
   {{ .Inner | markdownify | safeHTML }}
-</div> -->
+</div>
 
-<div style="
+<!-- <div style="
   max-width: calc(100% - {{ .Get "margin" | default "10%" }});
   width: calc(100% - {{ .Get "margin" | default "10%" }});
   position: relative;
@@ -58,7 +58,7 @@
   box-sizing: border-box;
 ">
   {{ .Inner | markdownify | safeHTML }}
-</div>
+</div> -->
 
 <!-- <div style="
   width: calc(100vw - {{ .Get "margin" | default "20vw" }});
