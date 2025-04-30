@@ -39,10 +39,7 @@
   max-width: 200%;
   width: 200%;
   position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: calc(-50vw + {{ .Get "margin" | default "120px" }}/2);
-  margin-right: calc(-50vw + {{ .Get "margin" | default "120px" }}/2);
+  left: -50%;
   {{ if .Get "bg" }}background: {{ .Get "bg" }};{{ end }}
   color: {{ .Get "color" | default "black" }};  /* 默认黑色字体 */
   {{ if .Get "font-size" }}font-size: {{ .Get "font-size" }};{{ end }}
