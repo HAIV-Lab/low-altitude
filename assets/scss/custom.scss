@@ -1,0 +1,4 @@
+/* 禁止双击缩放（iOS Safari） */
+html {
+    touch-action: manipulation; /* 只允许轻触滚动，禁止缩放 */
+  }
