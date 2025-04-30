@@ -84,7 +84,7 @@ sections:
           }
         </style>
 
-        {{< test margin="775px" bg="#f8f9fd" >}}
+        {{< test margin="5%" bg="#f8f9fd" >}}
 
         ## 一、论坛介绍
 
