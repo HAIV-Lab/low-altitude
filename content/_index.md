@@ -38,7 +38,7 @@ sections:
 
         <div class="title-container">
           <div class="main-title">低空智能感知计算与应用</div>
-          <div class="sub-forum">———2025中国多媒体大会分论坛</div>
+          <div class="sub-forum">———2025中国多媒体大会专题论坛</div>
         </div>
       design:
         spacing:
@@ -183,15 +183,15 @@ sections:
               </tr>
               <tr>
                 <td>15:45 ~ 16:15</td>
-                <td>待定</td>
-                <td>王涛</td>
-                <td>航天宏图</td>
-              </tr>
-              <tr>
-                <td>16:15 ~ 16:45</td>
                 <td>分布式空天遥感解译基础模型研究新进展</td>
                 <td>孙显</td>
                 <td>空天院</td>
+              </tr>
+              <tr>
+                <td>16:15 ~ 16:45</td>
+                <td>待定</td>
+                <td>王涛</td>
+                <td>航天宏图</td>
               </tr>
               <tr>
                 <td>16:45 ~ 17:15</td>
@@ -306,7 +306,7 @@ sections:
             <div>
               <h3 style="margin: 0 0 8px 0">项翔</h3>
               <p style="margin: 0 0 10px 0; color: #000">华中科技大学、鹏城实验室</p>
-              <p style="margin: 0; color: #666; font-size: 14px;">华中科技大学长聘副教授、图像与视觉学习实验室（HAIVLab）负责人，鹏城实验室访问学者。近年面向低空研究开放世界感知，获得国家级海外青年人才基金，作为第一作者或通讯作者在含CVPR、ICCV、ECCV、IJCV、IEEE汇刊在内的顶会顶刊发表55篇论文，其中ACM MM长文单篇被引921次，授权或申请专利10项，被提名ICPR-22 T-CAP最佳论文奖，任JVCI副编，因对多媒体领域贡献两次被提名 AI 2000。</p>
+              <p style="margin: 0; color: #666; font-size: 14px;">约翰·霍普金斯大学计算机科学博士，历任亚马逊云计算人工智能实验室研究科学家、图森未来资深研究科学家，2020年被引进华中科技大学任副教授，是国家级海外青年人才基金获得者、武汉黄鹤英才、华为东湖青年学者、鹏城国家实验室访问学者。面向开放环境研究自适感知、自主学习、自然交互，成果发表在ICML、ICCV、IJCV、CVPR、MM等CCF-A类会议/期刊以及ECCV、NAACL、MICCAI、IEEE汇刊、ISPRS汇刊等领域顶级会议/期刊上，单篇被引逾1000次，两次被提名AI 2000，担任Elsevier JVCI等期刊副编、多个顶会Area Chair，CISG等学会高级会员及其多个专委会委员，是工信部人工智能终端标准、AITISA智慧低空标准等多个行业标准工作组成员。</p>
             </div>
           </div>
         </div>
@@ -373,16 +373,16 @@ sections:
             display: flex;
             align-items: flex-start;
           ">
-            <img src="/low-altitude/wt.jpg" style="
+            <img src="/low-altitude/sx.jpg" style="
               width: 120px;
               height: 150px;
               object-fit: cover;
               margin-right: 15px;
             ">
             <div>
-              <h3 style="margin: 0 0 8px 0">王涛</h3>
-              <p style="margin: 0 0 10px 0; color: #000">航天宏图</p>
-              <p style="margin: 0; color: #666; font-size: 14px;">王涛，博士，航天宏图高级副总裁，人工智能研究院院长，中国计算机学会(CCF)理事、多媒体专委副主任，视觉专委常委，曾任英特尔中国研究院高级研究员、爱奇艺资深科学家。主要从事多媒体智能分析，计算机视觉、虚拟现实等相关技术研究，领导并参与了航天宏图天权遥感大模型、无人机智能巡检、三维城市快速重建，数字人交互，爱奇艺随视购、视频拆条、视频审核、以图搜剧、场景看点、音频水印、VR渲染直播等项目。在IJCV、CVPR°、ACM MMSJ、 ACM Multimedia等国际期刊和会议上发表论文60余篇，申请70多项专利，曾获得IEEE GRSS DFC2023国际遥感数据融合大赛双赛道冠军，全国人工智能应用场景创新挑战赛CICAS(2023)一等奖。</p>
+              <h3 style="margin: 0 0 8px 0">孙显</h3>
+              <p style="margin: 0 0 10px 0; color: #000">中国科学院空天信息创新研究院</p>
+              <p style="margin: 0; color: #666; font-size: 14px;">中国科学院空天信息创新研究院研究室副主任，IET Fellow（国家杰青）。研究方向为遥感数据智能分析。主持国家重大科研任务十余项，发表SCI论文70余篇，ESI高被引17篇，出版专著2部，授权专利24项。IET Fellow，入选国家级青年人才计划、CICC青年科学家奖。获国家科技进步一等奖1项、中科院杰出成就奖等省部级奖励4项。IEEE GRSL等多个国际期刊副主编。</p>
             </div>
           </div>
 
@@ -395,16 +395,16 @@ sections:
             display: flex;
             align-items: flex-start;
           ">
-            <img src="/low-altitude/sx.jpg" style="
+            <img src="/low-altitude/wt.jpg" style="
               width: 120px;
               height: 150px;
               object-fit: cover;
               margin-right: 15px;
             ">
             <div>
-              <h3 style="margin: 0 0 8px 0">孙显</h3>
-              <p style="margin: 0 0 10px 0; color: #000">中国科学院空天信息创新研究院</p>
-              <p style="margin: 0; color: #666; font-size: 14px;">中国科学院空天信息创新研究院研究室副主任，IET Fellow（国家杰青）。研究方向为遥感数据智能分析。主持国家重大科研任务十余项，发表SCI论文70余篇，ESI高被引17篇，出版专著2部，授权专利24项。IET Fellow，入选国家级青年人才计划、CICC青年科学家奖。获国家科技进步一等奖1项、中科院杰出成就奖等省部级奖励4项。IEEE GRSL等多个国际期刊副主编。</p>
+              <h3 style="margin: 0 0 8px 0">王涛</h3>
+              <p style="margin: 0 0 10px 0; color: #000">航天宏图</p>
+              <p style="margin: 0; color: #666; font-size: 14px;">王涛，博士，航天宏图高级副总裁，人工智能研究院院长，中国计算机学会(CCF)理事、多媒体专委副主任，视觉专委常委，曾任英特尔中国研究院高级研究员、爱奇艺资深科学家。主要从事多媒体智能分析，计算机视觉、虚拟现实等相关技术研究，领导并参与了航天宏图天权遥感大模型、无人机智能巡检、三维城市快速重建，数字人交互，爱奇艺随视购、视频拆条、视频审核、以图搜剧、场景看点、音频水印、VR渲染直播等项目。在IJCV、CVPR°、ACM MMSJ、 ACM Multimedia等国际期刊和会议上发表论文60余篇，申请70多项专利，曾获得IEEE GRSS DFC2023国际遥感数据融合大赛双赛道冠军，全国人工智能应用场景创新挑战赛CICAS(2023)一等奖。</p>
             </div>
           </div>
 
