@@ -260,9 +260,9 @@ sections:
               margin-right: 15px;
             ">
             <div>
-              <h3 style="margin: 0 0 8px 0">曾志刚</h3>
+              <h3 style="margin: 0 0 8px 0">廖小飞</h3>
               <p style="margin: 0 0 10px 0; color: #000">华中科技大学</p>
-              <p style="margin: 0; color: #666; font-size: 14px;">国家杰出青年科学基金获得者，教育部长江学者特聘教授，万人计划科技创新领军人才，IEEE Fellow，华中科技大学人工智能与自动化学院院长，图像信息处理与智能控制教育部重点实验室主任。2003年6月在华中科技大学获系统分析与集成博士学位。曾在香港中文大学和中国科技大学从事博士后研究。先后担任IEEE Transactions on Neural Networks；IEEE Transactions on Cybernetics；IEEE Transactions on Fuzzy Systems；Cognitive Computation；Neural Networks；Applied Soft Computing；自动化学报；控制工程；系统工程与电子技术；控制理论与应用的编委。曾获教育部自然科学奖一等奖、湖北省自然科学一等奖、湖北省科技进步一等奖、国家科学技术进步奖二等奖等奖励。</p>
+              <p style="margin: 0; color: #666; font-size: 14px;">国家杰出青年科学基金获得者，万人计划科技创新领军人才，华中科技大学计算机科学与技术学院院长。2005年获得华中科技大学工学博士学位，历任华中科技大学国际交流处处长、科学技术发展院院长，还主持国家重点研发计划项目（首席）、国家863计划课题、国家自然科学基金优青项目等多个项目，获得国家自然科学二等奖1项、国家科技进步二等奖1项、教育部技术发明/自然科学一等奖3项、湖北省科技进步一等奖1项以及CCF-IEEE CS青年科学家奖。</p>
             </div>
           </div>
 
