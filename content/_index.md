@@ -253,7 +253,7 @@ sections:
             display: flex;
             align-items: flex-start;
           ">
-            <img src="/low-altitude/zzg.jpg" style="
+            <img src="/low-altitude/lxf.jpg" style="
               width: 120px;
               height: 150px;
               object-fit: cover;
