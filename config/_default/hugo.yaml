@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: 低空智能感知计算与应用分论坛
+title: 低空智能感知计算与应用专题论坛
 # Website URL
 baseURL: 'https://example.com/'
 # 设置多个静态资源目录
