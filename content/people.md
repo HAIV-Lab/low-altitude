@@ -34,7 +34,7 @@ sections:
     content:
       #title: '<span style="font-size: 24px;">Team Member</span>'
       text: |
-        {{< test margin="625px" bg="#ffffff" >}}
+        {{< test margin="625px" bg="#ffffff" >}}  
         {{< center >}}
         ## Team Member
         {{< /center >}}
