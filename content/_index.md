@@ -173,7 +173,7 @@ sections:
               </tr>
               <tr>
                 <td>15:00 ~ 15:30</td>
-                <td>待定</td>
+                <td>打造低空大脑 - 智能融合低空系统SILAS</td>
                 <td>李世鹏</td>
                 <td>IDEA</td>
               </tr>
@@ -189,7 +189,7 @@ sections:
               </tr>
               <tr>
                 <td>16:15 ~ 16:45</td>
-                <td>待定</td>
+                <td>无人机智能快拼与巡检关键技术与应用</td>
                 <td>王涛</td>
                 <td>航天宏图</td>
               </tr>
