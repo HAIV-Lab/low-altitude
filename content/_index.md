@@ -178,7 +178,7 @@ sections:
                 <td>IDEA</td>
               </tr>
               <tr class="break-row">
-                <td>9:40 ~ 9：45</td>
+                <td>9:40 ~ 9:45</td>
                 <td colspan="3">合影</td>
               </tr>
               <tr>
