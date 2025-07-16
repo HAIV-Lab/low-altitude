@@ -162,51 +162,57 @@ sections:
             </thead>
             <tbody>
               <tr class="header-row">
-                <td>8:30 ~ 8:45</td>
+                <td>8:30 ~ 8:40</td>
                 <td colspan="3">领导致辞与技术发布</td>
               </tr>
               <tr>
-                <td>8:45 ~ 9:15</td>
+                <td>8:40 ~ 9:10</td>
                 <td>极端条件动态视觉计算</td>
                 <td>张艳宁</td>
                 <td>西北工业大学</td>
               </tr>
               <tr>
-                <td>9:15 ~ 9:45</td>
+                <td>9:10 ~ 9:40</td>
                 <td>打造低空大脑 - 智能融合低空系统SILAS</td>
                 <td>李世鹏</td>
                 <td>IDEA</td>
               </tr>
               <tr class="break-row">
-                <td>9:45 ~ 10:00</td>
+                <td>9:40 ~ 9：45</td>
                 <td colspan="3">合影/茶歇</td>
               </tr>
               <tr>
-                <td>10:00 ~ 10:30</td>
-                <td>分布式空天遥感解译基础模型研究新进展</td>
-                <td>孙显</td>
-                <td>空天院</td>
+                <td>9：45 ~ 10:10</td>
+                <td>待定</td>
+                <td>魏承</td>
+                <td>哈工大</td>
               </tr>
               <tr>
-                <td>10:30 ~ 11:00</td>
+                <td>10:10 ~ 10:35</td>
+                <td>分布式空天遥感解译基础模型研究新进展</td>
+                <td>孙显</td>
+                <td>中科院空天院</td>
+              </tr>
+              <tr>
+                <td>10:35 ~ 11:00</td>
                 <td>无人机智能快拼与巡检关键技术与应用</td>
                 <td>王涛</td>
                 <td>航天宏图</td>
               </tr>
               <tr>
-                <td>11:00 ~ 11:30</td>
+                <td>11:00 ~ 11:25</td>
                 <td>面向无人机遥感的开放世界感知</td>
                 <td>项翔</td>
                 <td>华中科技大学</td>
               </tr>
               <tr>
-                <td>11:30 ~ 12:00</td>
+                <td>11:25 ~ 11：50</td>
                 <td>基于多模态基础模型的鲁棒视频目标跟踪与分割技术</td>
                 <td>李鑫</td>
                 <td>鹏城实验室</td>
               </tr>
               <tr class="header-row">
-                <td>12:00 ~ 12:15</td>
+                <td>11：50 ~ 11：55</td>
                 <td colspan="3">总结发言</td>
               </tr>
             </tbody>
