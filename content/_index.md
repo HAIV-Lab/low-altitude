@@ -379,6 +379,28 @@ sections:
             display: flex;
             align-items: flex-start;
           ">
+            <img src="/low-altitude/wc.png" style="
+              width: 120px;
+              height: 150px;
+              object-fit: cover;
+              margin-right: 15px;
+            ">
+            <div>
+              <h3 style="margin: 0 0 8px 0">魏承</h3>
+              <p style="margin: 0 0 10px 0; color: #000">哈尔滨工业大学</p>
+              <p style="margin: 0; color: #666; font-size: 14px;">哈尔滨工业大学教授、博导，国家级高层次人才，空间智能操控技术国家级重点实验室常务副主任。长期从事航天器总体设计、动力学与控制等研究，任中国指挥与控制学会空天平行系统专委会副主任委员，中国宇航学会先进小卫星技术与应用专委会委员，中国空间科学学会空间智能专委会委员等，主持某部委重点项目、国家自然基金项目等30余项，在Nat. Commun., IEEE TAES/RAL/JSTARS, ND, AST等TOP期刊发表论文30余篇，主编国家重点规划图书专著3部，工信部重点规划教材1部，获省部级一等奖2项。</p>
+            </div>
+          </div>
+
+          <!-- Member 4 -->
+          <div class="member-card" style="
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: flex-start;
+          ">
             <img src="/low-altitude/sx.jpg" style="
               width: 120px;
               height: 150px;
@@ -392,7 +414,7 @@ sections:
             </div>
           </div>
 
-          <!-- Member 4 -->
+          <!-- Member 5 -->
           <div class="member-card" style="
             background: white;
             padding: 20px;
@@ -414,7 +436,7 @@ sections:
             </div>
           </div>
 
-          <!-- Member 5 -->
+          <!-- Member 6 -->
           <div class="member-card" style="
             background: white;
             padding: 20px;
@@ -436,7 +458,7 @@ sections:
             </div>
           </div>
 
-          <!-- Member 6 -->
+          <!-- Member 7 -->
           <div class="member-card" style="
             background: white;
             padding: 20px;
