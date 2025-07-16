@@ -163,7 +163,7 @@ sections:
             <tbody>
               <tr class="header-row">
                 <td>8:30 ~ 8:40</td>
-                <td colspan="3">领导致辞与技术发布</td>
+                <td colspan="3">开场致辞与技术发布</td>
               </tr>
               <tr>
                 <td>8:40 ~ 9:10</td>
@@ -179,7 +179,7 @@ sections:
               </tr>
               <tr class="break-row">
                 <td>9:40 ~ 9：45</td>
-                <td colspan="3">合影/茶歇</td>
+                <td colspan="3">合影</td>
               </tr>
               <tr>
                 <td>9:45 ~ 10:10</td>
