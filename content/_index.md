@@ -335,7 +335,7 @@ sections:
             display: flex;
             align-items: flex-start;
           ">
-            <img src="/low-altitude/zyn.jpg" style="
+            <img src="/low-altitude/zyn.png" style="
               width: 120px;
               height: 150px;
               object-fit: cover;
@@ -379,7 +379,7 @@ sections:
             display: flex;
             align-items: flex-start;
           ">
-            <img src="/low-altitude/wc.png" style="
+            <img src="/low-altitude/wc.jpg" style="
               width: 120px;
               height: 150px;
               object-fit: cover;
