@@ -182,7 +182,7 @@ sections:
                 <td colspan="3">合影/茶歇</td>
               </tr>
               <tr>
-                <td>9：45 ~ 10:10</td>
+                <td>9:45 ~ 10:10</td>
                 <td>待定</td>
                 <td>魏承</td>
                 <td>哈尔滨工业大学</td>
