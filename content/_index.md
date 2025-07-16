@@ -335,7 +335,7 @@ sections:
             display: flex;
             align-items: flex-start;
           ">
-            <img src="/low-altitude/zyn.png" style="
+            <img src="/low-altitude/zyn.jpg" style="
               width: 120px;
               height: 150px;
               object-fit: cover;
