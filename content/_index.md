@@ -206,13 +206,13 @@ sections:
                 <td>华中科技大学</td>
               </tr>
               <tr>
-                <td>11:25 ~ 11：50</td>
+                <td>11:25 ~ 11:50</td>
                 <td>基于多模态基础模型的鲁棒视频目标跟踪与分割技术</td>
                 <td>李鑫</td>
                 <td>鹏城实验室</td>
               </tr>
               <tr class="header-row">
-                <td>11：50 ~ 11：55</td>
+                <td>11:50 ~ 11:55</td>
                 <td colspan="3">总结发言</td>
               </tr>
             </tbody>
