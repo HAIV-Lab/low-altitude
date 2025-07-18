@@ -173,7 +173,7 @@ sections:
               </tr>
               <tr>
                 <td>9:10 ~ 9:40</td>
-                <td>打造低空大脑 - 智能融合低空系统SILAS</td>
+                <td>打造低空大脑——智能融合低空系统SILAS</td>
                 <td>李世鹏</td>
                 <td>IDEA</td>
               </tr>
@@ -183,7 +183,7 @@ sections:
               </tr>
               <tr>
                 <td>9:45 ~ 10:10</td>
-                <td>待定</td>
+                <td>航天数智训练场 SpaceSim设计与应用</td>
                 <td>魏承</td>
                 <td>哈尔滨工业大学</td>
               </tr>
