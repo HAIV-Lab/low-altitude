@@ -163,7 +163,7 @@ sections:
             <tbody>
               <tr class="header-row">
                 <td>1:30 ~ 1:40</td>
-                <td colspan="3">开场致辞/技术发布[[OES]](https://haiv-lab.github.io/OES/)[[OpenHAIV]](https://haiv-lab.github.io/openhaiv/)</td>
+                <td colspan="3">开场致辞/数据集公布</td>
               </tr>
               <tr>
                 <td>1:40 ~ 2:10</td>
@@ -218,6 +218,8 @@ sections:
             </tbody>
           </table>
         </div>
+
+* [[OES]](https://haiv-lab.github.io/OES/) | [[OpenHAIV]](https://haiv-lab.github.io/openhaiv/)
 
         ## <font color="black">三、组织者信息<font>
 
@@ -464,7 +466,7 @@ sections:
             <div>
               <h3 style="margin: 0 0 8px 0">项翔</h3>
               <p style="margin: 0 0 10px 0; color: #000">华中科技大学</p>
-              <p style="margin: 0; color: #666; font-size: 14px;">约翰·霍普金斯大学计算机科学博士，历任亚马逊云计算人工智能实验室研究科学家、图森未来资深研究科学家，2020年被引进华中科技大学任副教授、博导，是国家级海外青年人才基金获得者、武汉黄鹤英才、华为东湖青年学者、鹏城国家实验室访问学者。面向开放环境研究自适感知、自主学习、自然交互，成果发表在ICML、ICCV、IJCV、CVPR、MM等CCF-A类会议/期刊以及ECCV、NAACL、MICCAI、IEEE汇刊、ISPRS汇刊等领域顶级会议/期刊上，单篇被引逾1000次，两次被提名AI 2000，担任Elsevier JVCI等期刊副编、多个顶会Area Chair，CISG等学会高级会员及其多个专委会委员，是工信部人工智能终端标准、AITISA智慧低空标准等多个行业标准工作组成员。</p>
+              <p style="margin: 0; color: #666; font-size: 14px;">约翰·霍普金斯大学计算机科学博士，历任亚马逊云计算人工智能实验室研究科学家、图森未来资深研究科学家，2020年被引进华中科技大学任副教授、博导，鹏城实验室访问学者。面向开放环境研究自适感知、自主学习、自然交互，成果发表在ICML、ICCV、IJCV、CVPR、MM等CCF-A类会议/期刊以及ECCV、NAACL、MICCAI、IEEE汇刊、ISPRS汇刊等领域顶级会议/期刊上，单篇被引逾1000次，两次被提名AI 2000，担任Elsevier JVCI等期刊副编、多个顶会Area Chair，CISG等学会高级会员及其多个专委会委员，是工信部人工智能终端标准、AITISA智慧低空标准等多个行业标准工作组成员。</p>
               <p style="margin: 0; color: #666; font-size: 14px;"><b>拟报告的题目</b>：面向无人机遥感的开放世界感知</p>
               <p style="margin: 0; color: #666; font-size: 14px;"><b>报告摘要</b>：随着近年来无人机等智能体的发展，视觉感知场景正从封闭世界演变为开放世界，随之而来智能体的自适应学习变得至关重要。本报告将发布了一个大规模、多模态的开放世界遥感数据集，涵盖了一百多个场景和物体类别，模拟了开放世界中数据域的变化并考虑了语义和协变量的变化；还将讨论何时以及如何适应这种变化，演示应用并发布一个开源框架，以促进未来该方向的研究。</p>
             </div>
