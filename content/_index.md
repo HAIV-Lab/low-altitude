@@ -219,8 +219,6 @@ sections:
           </table>
         </div>
 
-* [[OES]](https://haiv-lab.github.io/OES/) | [[OpenHAIV]](https://haiv-lab.github.io/openhaiv/)
-
         ## <font color="black">三、组织者信息<font>
 
         <!-- markdownlint-disable -->
@@ -502,5 +500,6 @@ sections:
         spacing:
           padding: ["0px", "0px", "0px", "0px"]  # 垂直30px/水平0
 
+* [[OES]](https://haiv-lab.github.io/OES/) | [[OpenHAIV]](https://haiv-lab.github.io/openhaiv/)
 
 ---
