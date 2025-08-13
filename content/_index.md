@@ -163,7 +163,7 @@ sections:
             <tbody>
               <tr class="header-row">
                 <td>1:30 ~ 1:40</td>
-                <td colspan="3">开场致辞/技术发布</td>
+                <td colspan="3">开场致辞/技术发布[[OES](https://haiv-lab.github.io/OES/)[[OpenHAIV](https://haiv-lab.github.io/openhaiv/)]]</td>
               </tr>
               <tr>
                 <td>1:40 ~ 2:10</td>
