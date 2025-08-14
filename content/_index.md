@@ -511,7 +511,7 @@ sections:
         <font color="black">框架链接：<a href="目标URL">https://haiv-lab.github.io/openhaiv/</a></font>
 
         <center>
-          <img src="/low-altitude/OpenHAIV.png" style="width: 200px; height: auto;">
+          <img src="/low-altitude/OpenHAIV.png" style="width: 500px; height: auto;">
         </center>
 
         </div>
