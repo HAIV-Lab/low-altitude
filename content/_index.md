@@ -501,14 +501,18 @@ sections:
 
         <font color="black">数据集链接：<a href="目标URL">https://haiv-lab.github.io/OES/</a></font>
 
-        <img src="/low-altitude/OES.png">
+        <div style="text-align: center;">
+          <img src="/low-altitude/OES.png">
+        </div>
 
         ### OpenHAIV框架
         <font color="black">&emsp;&emsp;为开放环境核心下游任务的训练和评测搭建了统一框架，包括开集识别/分布外检测，领域适应与泛化、小样本/零样本学习，增量学习等。涵盖了现有开放环境相关问题众多方法的实现，支持多任务的组合及开放任务测评，具备灵活的可扩展性，面向更真实的开放世界问题。</font>
 
         <font color="black">框架链接：<a href="目标URL">https://haiv-lab.github.io/openhaiv/</a></font>
-        
-        <img src="/low-altitude/OpenHAIV.png">
+
+        <div style="text-align: center;">
+          <img src="/low-altitude/OpenHAIV.png">
+        </div>
 
         </div>
 
